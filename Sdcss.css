@@ -1,0 +1,41 @@
+body{
+     background-color: rgb(127, 255, 132);
+}
+
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+   
+    
+}
+
+h1{
+    margin: 0 30px;
+    font-family: cursive , sans-serif;
+    font-size: 90px;
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.pink{
+    color: pink;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+}
+
+p{
+    background-color: aquamarine;
+    border-radius: 15px;
+    font-family: monospace,fantasy ;
+    color: #001dff;
+    display: block;
+    text-align:center;
+    font-size: 30px;
+}
